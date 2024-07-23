@@ -1,4 +1,4 @@
 # Lern-MYSQL
-Beginner
-Intermidiate
+Learn mysql with levels Beginner,
+Intermidiate,
 Advanced
